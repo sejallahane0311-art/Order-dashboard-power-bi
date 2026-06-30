@@ -67,5 +67,7 @@ Users can filter the dashboard by:
 * Enhance decision-making with interactive and data-driven reports.
 #  Screenshots / Demo 
 https://github.com/sejallahane0311-art/Order-dashboard-power-bi/blob/main/dashbord%20screenshort.png
+<img width="1332" height="750" alt="image" src="https://github.com/user-attachments/assets/96bae57e-1d3c-4960-ab5e-ded16bf50873" />
+
 
 
