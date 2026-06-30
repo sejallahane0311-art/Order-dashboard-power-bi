@@ -65,5 +65,7 @@ Users can filter the dashboard by:
 * Support inventory planning using demand trends.
 * Enable management to monitor KPIs in real time.
 * Enhance decision-making with interactive and data-driven reports.
-#  Screenshots / Demo
+#  Screenshots / Demo 
+https://github.com/sejallahane0311-art/Order-dashboard-power-bi/blob/main/dashbord%20screenshort.png
+
 
